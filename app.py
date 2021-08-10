@@ -16,6 +16,7 @@ Find out where your Reddit comments fall in the political compass!\n
 This app uses a deep learning model trained on comments from **r/politicalcompassmemes** 
 to predict where each of your comments lie in the political compass based on the language and words used.''')
 
+#config contains reddit authentication tokens
 reddit = praw.Reddit(client_id= config.clientid,  
                     client_secret= config.secret,
                     user_agent = config.useragent,
