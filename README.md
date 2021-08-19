@@ -8,4 +8,4 @@ Nearly all users in the subreddit select a [user flair](https://mods.reddithelp.
 
 [Check out the app!](https://political-compass-reddit-test.herokuapp.com/)
 
-This web app takes in a Reddit username as an input and predicts the political compass sector of each of the user's comments using the saved TensorFlow model. It will return the comment count of each sector as well as each comment with its sector prediction.
+This web app takes in a Reddit username as an input and predicts the political compass sector of each of the user's comments using the saved TensorFlow model. It will return the comment count of each sector as well as each comment with its sector prediction. The web app is built with Streamlit and deployed using Heroku.
