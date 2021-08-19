@@ -1,5 +1,5 @@
 # Political-Compass-Deep-Learning-Text-Classification
-Predicting the political compass quadrant of Reddit user comments using a deep learning classification model trained on comments from [r/PoliticalCompassMemes](https://www.reddit.com/r/PoliticalCompassMemes/). The model is built and trained using TensorFlow. 
+Predicting the political compass quadrant of Reddit user comments using a deep learning classification model trained on comments from [r/PoliticalCompassMemes](https://www.reddit.com/r/PoliticalCompassMemes/). The model is built using TensorFlow. See the .ipynb file for the data pre-processing and the model building process.
 
 Nearly all users in the subreddit select a [user flair](https://mods.reddithelp.com/hc/en-us/articles/360010541651-User-Flair). The flairs are pre-defined to represent each sector in the political compass. It is assumed in this project that the flair represents the user's political orientation. Each comment from this community is retrieved along with the user's flair. These flairs make the perfect target variable for the model.
 
