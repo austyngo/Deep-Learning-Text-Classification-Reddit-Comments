@@ -1,4 +1,4 @@
-# Political-Compass-Deep-Learning-Text-Classification
+# Text Classification on Reddit Comments with TensorFlow Deep Learning
 Predicting the political compass quadrant of Reddit user comments using a deep learning classification model trained on comments from [r/PoliticalCompassMemes](https://www.reddit.com/r/PoliticalCompassMemes/). 
 
 The model is built using TensorFlow. See the .ipynb file for the data pre-processing and the model building process.
